@@ -1,3 +1,3 @@
 # Portafolio
 Este es el repositorio de mi portafolio como desarrollador.
-Prueba de Git
+Prueba de Github
